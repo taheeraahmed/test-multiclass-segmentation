@@ -1,6 +1,3 @@
-# test-multiclass-segmentation
-This repository contains 
-
 # Task:
 Within **4 hours** please attempt to build, train and test a deep learning model that can segment Sentinel-2 image tiles into a 6-class land cover map. Specifically please do the following:
 1. train your model only on images and masks in the *tra_scene/* and *tra_truth/* directory.
