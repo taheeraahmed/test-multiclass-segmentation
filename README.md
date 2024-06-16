@@ -4,8 +4,7 @@ Within **4 hours** please attempt to build, train and test a deep learning model
 2. evaluate your model only on images and masks in the *val_scene/* and *val_truth/* directory
 3. during evaluation, please use the [jaccard_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html) function. Calculate it per class, and the average score across all classes.
 4. use your best model to make inference over the first image in the *val_scene/* directory. Plot the resulting segmentation alongside the true land cover mask.
-5. navigate back to the Microsoft Form we send you and submit the following:
-    - your code
+5. navigate back to the Microsoft Form we send you and submit a link to the GitHub repo where you have saved your code along with the following:
     - a jpeg image (e.g. screenshot or graph) showing the highest jaccard_score (averaged over all classes)
     - a jpeg figure showing the resulting segmentation map (point 4 above)
 
