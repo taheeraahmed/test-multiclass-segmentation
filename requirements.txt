@@ -1,0 +1,6 @@
+rioxarray
+segmentation-models
+tensorflow
+numpy 
+opencv-python
+scikit-learn
